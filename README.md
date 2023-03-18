@@ -8,6 +8,6 @@
 
 ### Моя статистика 📉
 
-![image](https://www.codewars.com/users/qann1st/badges/large?logo=false)
+![image](https://www.codewars.com/users/qann1st/badges/large)
 
 
