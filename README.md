@@ -28,6 +28,6 @@
 
 ### Контакты 📱
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/qann1st)
-[![Mail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bllxy67@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/qann1st){:target="_blank"}
+[![Mail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bllxy67@gmail.com){:target="_blank"}
 
