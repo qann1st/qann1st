@@ -10,8 +10,15 @@
 - React
 - Redux Toolkit
 - NextJS
+- Vite
+- React Query
+- Effector
+- Zustand
+- Electron
 - Webpack
 - HTML
+- Chakra UI
+- MUI
 - CSS/SCSS/Styled-Components
 
 **Backend**:
