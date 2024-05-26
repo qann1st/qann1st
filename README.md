@@ -28,6 +28,7 @@
 - NestJS
 - MongoDB
 - Mongoose
+- Prisma
 
 ### Моя статистика 📉
 
