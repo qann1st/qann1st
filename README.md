@@ -17,14 +17,11 @@
 - Electron
 - Webpack
 - HTML
-- Chakra UI
-- MUI
 - CSS/SCSS/Styled-Components
 
 **Backend**:
 - NodeJS
 - ExpressJS
-- routing-controllers
 - NestJS
 - MongoDB
 - Mongoose
